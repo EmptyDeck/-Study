@@ -3,6 +3,7 @@
 
 import math
 
+
 class Vector():
     def __init__(self, x, y):
         self.x = x
@@ -25,6 +26,8 @@ vec2 = Vector(-1, 5)
  
 someNorm = vec1.norm()
 print(someNorm)
+ 
+ 
  
 #vec1.add(vec2)
 (vec1 + vec2).printVec()# this is possible  (adding two classes) because I made a def in class with _add_ in it
