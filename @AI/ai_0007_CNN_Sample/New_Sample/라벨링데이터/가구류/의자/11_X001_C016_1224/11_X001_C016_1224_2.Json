@@ -1,0 +1,111 @@
+{
+  "FILE NAME": "11_X001_C016_1224_2.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-19 14:53:22",
+  "GPS": "37.5194949722222/126.744247",
+  "ID CODE": "C016",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "4.23mm",
+  "exposure time": "1/60sec",
+  "Aperture values": "1.16",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "LGE",
+  "Camera Model Name": "LM-V409N",
+  "Software": "",
+  "File Size": "317410",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "의자",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "152/127/119",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "소",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "24",
+      "PolygonPoint": [
+        {
+          "Point1": "1112,963"
+        },
+        {
+          "Point2": "1136,1088"
+        },
+        {
+          "Point3": "1171,1094"
+        },
+        {
+          "Point4": "1190,1071"
+        },
+        {
+          "Point5": "1174,931"
+        },
+        {
+          "Point6": "1232,415"
+        },
+        {
+          "Point7": "1281,227"
+        },
+        {
+          "Point8": "1312,122"
+        },
+        {
+          "Point9": "875,98"
+        },
+        {
+          "Point10": "872,171"
+        },
+        {
+          "Point11": "856,630"
+        },
+        {
+          "Point12": "528,763"
+        },
+        {
+          "Point13": "543,804"
+        },
+        {
+          "Point14": "564,828"
+        },
+        {
+          "Point15": "605,1162"
+        },
+        {
+          "Point16": "629,1176"
+        },
+        {
+          "Point17": "654,1152"
+        },
+        {
+          "Point18": "650,940"
+        },
+        {
+          "Point19": "697,915"
+        },
+        {
+          "Point20": "891,1010"
+        },
+        {
+          "Point21": "907,1365"
+        },
+        {
+          "Point22": "935,1370"
+        },
+        {
+          "Point23": "959,1350"
+        },
+        {
+          "Point24": "976,1085"
+        }
+      ]
+    }
+  ]
+}

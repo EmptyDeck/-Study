@@ -1,0 +1,93 @@
+{
+  "FILE NAME": "11_X006_C014_1215_4.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-14 14:12:02",
+  "GPS": "37.5963888888889/126.698055555556",
+  "ID CODE": "C014",
+  "RESOLUTION": "2221*1080",
+  "focus distance": "4.20mm",
+  "exposure time": "1/159sec",
+  "Aperture values": "1.53",
+  "Sensitivity iso": "40",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G950N",
+  "Software": "G950NKSU4DTD1",
+  "File Size": "343958",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "화장대",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "150/148/144",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "18",
+      "PolygonPoint": [
+        {
+          "Point1": "1235,100"
+        },
+        {
+          "Point2": "1142,215"
+        },
+        {
+          "Point3": "1098,168"
+        },
+        {
+          "Point4": "1042,173"
+        },
+        {
+          "Point5": "1003,658"
+        },
+        {
+          "Point6": "835,707"
+        },
+        {
+          "Point7": "826,868"
+        },
+        {
+          "Point8": "940,992"
+        },
+        {
+          "Point9": "1615,736"
+        },
+        {
+          "Point10": "1632,612"
+        },
+        {
+          "Point11": "1505,527"
+        },
+        {
+          "Point12": "1417,539"
+        },
+        {
+          "Point13": "1464,385"
+        },
+        {
+          "Point14": "1464,156"
+        },
+        {
+          "Point15": "1432,134"
+        },
+        {
+          "Point16": "1405,180"
+        },
+        {
+          "Point17": "1352,112"
+        },
+        {
+          "Point18": "1318,100"
+        }
+      ]
+    }
+  ]
+}

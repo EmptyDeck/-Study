@@ -1,0 +1,153 @@
+{
+  "FILE NAME": "11_X029_C055_0210_4.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-02-09 16:37:52",
+  "GPS": "37.4632384/126.692231",
+  "ID CODE": "C055",
+  "RESOLUTION": "1921*1080",
+  "focus distance": "1.80mm",
+  "exposure time": "1/60sec",
+  "Aperture values": "2.27",
+  "Sensitivity iso": "125",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G977N",
+  "Software": "G977NKSU4DTJ8",
+  "File Size": "272687",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "침대",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "129/132/134",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "38",
+      "PolygonPoint": [
+        {
+          "Point1": "295,564"
+        },
+        {
+          "Point2": "641,995"
+        },
+        {
+          "Point3": "657,1009"
+        },
+        {
+          "Point4": "678,1009"
+        },
+        {
+          "Point5": "796,955"
+        },
+        {
+          "Point6": "799,933"
+        },
+        {
+          "Point7": "1710,519"
+        },
+        {
+          "Point8": "1725,529"
+        },
+        {
+          "Point9": "1839,478"
+        },
+        {
+          "Point10": "1839,457"
+        },
+        {
+          "Point11": "1850,447"
+        },
+        {
+          "Point12": "1866,354"
+        },
+        {
+          "Point13": "1863,342"
+        },
+        {
+          "Point14": "1877,334"
+        },
+        {
+          "Point15": "1888,243"
+        },
+        {
+          "Point16": "1880,225"
+        },
+        {
+          "Point17": "1404,82"
+        },
+        {
+          "Point18": "1377,82"
+        },
+        {
+          "Point19": "1369,82"
+        },
+        {
+          "Point20": "933,267"
+        },
+        {
+          "Point21": "681,372"
+        },
+        {
+          "Point22": "670,386"
+        },
+        {
+          "Point23": "553,273"
+        },
+        {
+          "Point24": "552,237"
+        },
+        {
+          "Point25": "553,199"
+        },
+        {
+          "Point26": "553,172"
+        },
+        {
+          "Point27": "533,149"
+        },
+        {
+          "Point28": "500,143"
+        },
+        {
+          "Point29": "410,166"
+        },
+        {
+          "Point30": "363,199"
+        },
+        {
+          "Point31": "337,257"
+        },
+        {
+          "Point32": "310,330"
+        },
+        {
+          "Point33": "312,374"
+        },
+        {
+          "Point34": "327,404"
+        },
+        {
+          "Point35": "336,430"
+        },
+        {
+          "Point36": "324,463"
+        },
+        {
+          "Point37": "299,529"
+        },
+        {
+          "Point38": "293,550"
+        }
+      ]
+    }
+  ]
+}

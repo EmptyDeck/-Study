@@ -1,0 +1,57 @@
+{
+  "FILE NAME": "11_X001_C171_0205_4.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-02-05 16:59:21",
+  "GPS": "37.5108616166667/126.728186744444",
+  "ID CODE": "C171",
+  "RESOLUTION": "1921*1440",
+  "focus distance": "4.30mm",
+  "exposure time": "1/60sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "64",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N960N",
+  "Software": "N960NKSU3FTK1",
+  "File Size": "567974",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "밥상",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "178/152/140",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "6",
+      "PolygonPoint": [
+        {
+          "Point1": "1240,261"
+        },
+        {
+          "Point2": "1633,1080"
+        },
+        {
+          "Point3": "1593,1139"
+        },
+        {
+          "Point4": "536,1277"
+        },
+        {
+          "Point5": "500,1220"
+        },
+        {
+          "Point6": "536,250"
+        }
+      ]
+    }
+  ]
+}

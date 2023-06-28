@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X002_C509_0511_3.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-02-16 16:43:41",
+  "GPS": "37.5100575777778/126.723896277778",
+  "ID CODE": "C509",
+  "RESOLUTION": "1921*1440",
+  "focus distance": "4.30mm",
+  "exposure time": "1/138sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N960N",
+  "Software": "N960NKSU3FTK1",
+  "File Size": "517130",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "서랍장",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "139/121/99",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "680",
+      "y1": "154",
+      "x2": "1451",
+      "y2": "1109"
+    }
+  ]
+}

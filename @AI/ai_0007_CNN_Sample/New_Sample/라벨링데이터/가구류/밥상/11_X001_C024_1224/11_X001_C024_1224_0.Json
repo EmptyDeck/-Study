@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C024_1224_0.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-24 10:52:48",
+  "GPS": "37.5507194722222/126.739915841667",
+  "ID CODE": "C024",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "4.30mm",
+  "exposure time": "1/226sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G965N",
+  "Software": "G965NKSU3FTK1",
+  "File Size": "413681",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "밥상",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "141/126/118",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "원거리",
+      "Drawing": "BOX",
+      "x1": "402",
+      "y1": "343",
+      "x2": "1501",
+      "y2": "861"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X003_C037_1106_0.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-11-06 15:38:14",
+  "GPS": "37.5128222222222/126.729661111111",
+  "ID CODE": "C037",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "4.25mm",
+  "exposure time": "1/121sec",
+  "Aperture values": "1.70",
+  "Sensitivity iso": "80",
+  "exposure method": "normal program",
+  "MAKE": "Apple",
+  "Camera Model Name": "iPhone 11",
+  "Software": "13.7",
+  "File Size": "748990",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "서랍장",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "129/102/80",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "원거리",
+      "Drawing": "BOX",
+      "x1": "773",
+      "y1": "415",
+      "x2": "1155",
+      "y2": "879"
+    }
+  ]
+}

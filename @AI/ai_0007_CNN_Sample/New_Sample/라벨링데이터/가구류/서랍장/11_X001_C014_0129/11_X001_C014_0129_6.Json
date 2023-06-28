@@ -1,0 +1,54 @@
+{
+  "FILE NAME": "11_X001_C014_0129_6.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-01-29 11:40:16",
+  "GPS": "37.5958333333333/126.697777777778",
+  "ID CODE": "C014",
+  "RESOLUTION": "2221*1080",
+  "focus distance": "4.20mm",
+  "exposure time": "1/364sec",
+  "Aperture values": "1.53",
+  "Sensitivity iso": "40",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G950N",
+  "Software": "G950NKSU4DTD1",
+  "File Size": "366664",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "서랍장",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "206/185/180",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "정면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "5",
+      "PolygonPoint": [
+        {
+          "Point1": "1017,975"
+        },
+        {
+          "Point2": "1376,951"
+        },
+        {
+          "Point3": "1402,225"
+        },
+        {
+          "Point4": "1287,89"
+        },
+        {
+          "Point5": "968,110"
+        }
+      ]
+    }
+  ]
+}

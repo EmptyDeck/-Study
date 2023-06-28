@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X002_C192_1105_2.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-11-03 14:08:25",
+  "GPS": "37.4565694444444/126.690177777778",
+  "ID CODE": "C192",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "3.99mm",
+  "exposure time": "1/294sec",
+  "Aperture values": "1.70",
+  "Sensitivity iso": "20",
+  "exposure method": "normal program",
+  "MAKE": "Apple",
+  "Camera Model Name": "iPhone 7 Plus",
+  "Software": "13.7",
+  "File Size": "486758",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "소파",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "147/145/137",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "415",
+      "y1": "107",
+      "x2": "1716",
+      "y2": "1353"
+    }
+  ]
+}

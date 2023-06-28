@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C102_0321_4.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-03-20 17:22:06",
+  "GPS": "37.5217606/126.741682999722",
+  "ID CODE": "C102",
+  "RESOLUTION": "1921*1080",
+  "focus distance": "5.40mm",
+  "exposure time": "1/50sec",
+  "Aperture values": "1.69",
+  "Sensitivity iso": "244",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G781N",
+  "Software": "G781NKSU2CUB4",
+  "File Size": "439705",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "소파",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "134/132/131",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "141",
+      "y1": "46",
+      "x2": "1429",
+      "y2": "986"
+    }
+  ]
+}

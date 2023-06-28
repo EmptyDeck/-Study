@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C203_0928_0.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-09-28 09:40:03",
+  "GPS": "37.5183333333333/126.702222222222",
+  "ID CODE": "C203",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "4.20mm",
+  "exposure time": "1/3136sec",
+  "Aperture values": "1.53",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G930L",
+  "Software": "G930LKLU3ETG2",
+  "File Size": "584207",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "책상",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "162/137/109",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "133",
+      "y1": "386",
+      "x2": "1836",
+      "y2": "1327"
+    }
+  ]
+}

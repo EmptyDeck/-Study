@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X121_C500_0310_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-03-10 14:40:59",
+  "GPS": "37.4871777777778/126.715483333333",
+  "ID CODE": "C500",
+  "RESOLUTION": "1921*1440",
+  "focus distance": "3.99mm",
+  "exposure time": "1/591sec",
+  "Aperture values": "1.70",
+  "Sensitivity iso": "20",
+  "exposure method": "normal program",
+  "MAKE": "Apple",
+  "Camera Model Name": "iPhone 7",
+  "Software": "14.4",
+  "File Size": "541278",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "장롱",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "148/151/150",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "정면",
+      "Drawing": "BOX",
+      "x1": "122",
+      "y1": "202",
+      "x2": "1512",
+      "y2": "1041"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "FILE NAME": "11_X001_C204_1028_2.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-10-28 15:02:37",
+  "GPS": "37.5180456/126.7416584",
+  "ID CODE": "C204",
+  "RESOLUTION": "1921*1440",
+  "focus distance": "5.90mm",
+  "exposure time": "1/161sec",
+  "Aperture values": "2.00",
+  "Sensitivity iso": "25",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G986N",
+  "Software": "G986NKSU1BTI3",
+  "File Size": "436653",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "수납장",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "173/153/133",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "6",
+      "PolygonPoint": [
+        {
+          "Point1": "1644,359"
+        },
+        {
+          "Point2": "368,549"
+        },
+        {
+          "Point3": "360,592"
+        },
+        {
+          "Point4": "478,1118"
+        },
+        {
+          "Point5": "1776,791"
+        },
+        {
+          "Point6": "1796,360"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "FILE NAME": "11_X017_C055_0120_3.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-01-17 23:02:37",
+  "GPS": "37.4479459/126.6831648",
+  "ID CODE": "C055",
+  "RESOLUTION": "1920*1650",
+  "focus distance": "4.32mm",
+  "exposure time": "1/364sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G977N",
+  "Software": "Windows Photo Editor 10.0.10011.16384",
+  "File Size": "727949",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "싱크대",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "116/101/93",
+      "Shape": "직육면체",
+      "Texture": "금속",
+      "Object Size": "대",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "20",
+      "PolygonPoint": [
+        {
+          "Point1": "946,1591"
+        },
+        {
+          "Point2": "990,1616"
+        },
+        {
+          "Point3": "1033,1602"
+        },
+        {
+          "Point4": "1061,1478"
+        },
+        {
+          "Point5": "1192,1329"
+        },
+        {
+          "Point6": "1239,1331"
+        },
+        {
+          "Point7": "1281,1220"
+        },
+        {
+          "Point8": "1346,1133"
+        },
+        {
+          "Point9": "1619,240"
+        },
+        {
+          "Point10": "887,103"
+        },
+        {
+          "Point11": "873,210"
+        },
+        {
+          "Point12": "408,349"
+        },
+        {
+          "Point13": "408,394"
+        },
+        {
+          "Point14": "433,426"
+        },
+        {
+          "Point15": "396,1157"
+        },
+        {
+          "Point16": "453,1190"
+        },
+        {
+          "Point17": "459,1305"
+        },
+        {
+          "Point18": "523,1319"
+        },
+        {
+          "Point19": "552,1238"
+        },
+        {
+          "Point20": "948,1482"
+        }
+      ]
+    }
+  ]
+}

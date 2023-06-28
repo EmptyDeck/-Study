@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X002_C209_1125_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-11-24 14:30:01",
+  "GPS": "36.6235194444444/127.514061111111",
+  "ID CODE": "C209",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "4.25mm",
+  "exposure time": "1/437sec",
+  "Aperture values": "1.70",
+  "Sensitivity iso": "25",
+  "exposure method": "normal program",
+  "MAKE": "Apple",
+  "Camera Model Name": "iPhone XS",
+  "Software": "14.1",
+  "File Size": "546513",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "소파",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "169/105/121",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "원거리",
+      "Drawing": "BOX",
+      "x1": "356",
+      "y1": "246",
+      "x2": "1510",
+      "y2": "1331"
+    }
+  ]
+}

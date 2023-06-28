@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C052_1103_3.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-11-02 14:51:28",
+  "GPS": "37.521375/126.741744444444",
+  "ID CODE": "C052",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "3.99mm",
+  "exposure time": "1/120sec",
+  "Aperture values": "1.70",
+  "Sensitivity iso": "32",
+  "exposure method": "normal program",
+  "MAKE": "Apple",
+  "Camera Model Name": "iPhone 7",
+  "Software": "14.0.1",
+  "File Size": "484501",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "의자",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "78/79/80",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "소",
+      "Direction": "원거리",
+      "Drawing": "BOX",
+      "x1": "384",
+      "y1": "393",
+      "x2": "1315",
+      "y2": "1156"
+    }
+  ]
+}

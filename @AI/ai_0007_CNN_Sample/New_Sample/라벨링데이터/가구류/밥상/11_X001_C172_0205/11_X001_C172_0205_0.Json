@@ -1,0 +1,93 @@
+{
+  "FILE NAME": "11_X001_C172_0205_0.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-02-05 17:01:55",
+  "GPS": "37.5108352/126.7243804",
+  "ID CODE": "C172",
+  "RESOLUTION": "1921*1440",
+  "focus distance": "4.32mm",
+  "exposure time": "1/120sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "80",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G977N",
+  "Software": "G977NKSU4DTJ8",
+  "File Size": "570751",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "밥상",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "171/135/117",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "윗면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "18",
+      "PolygonPoint": [
+        {
+          "Point1": "1378,119"
+        },
+        {
+          "Point2": "1575,781"
+        },
+        {
+          "Point3": "1578,833"
+        },
+        {
+          "Point4": "1552,865"
+        },
+        {
+          "Point5": "1463,871"
+        },
+        {
+          "Point6": "1381,1043"
+        },
+        {
+          "Point7": "1341,1066"
+        },
+        {
+          "Point8": "1294,1021"
+        },
+        {
+          "Point9": "1343,883"
+        },
+        {
+          "Point10": "607,905"
+        },
+        {
+          "Point11": "673,1022"
+        },
+        {
+          "Point12": "671,1057"
+        },
+        {
+          "Point13": "627,1085"
+        },
+        {
+          "Point14": "511,911"
+        },
+        {
+          "Point15": "401,902"
+        },
+        {
+          "Point16": "362,851"
+        },
+        {
+          "Point17": "537,157"
+        },
+        {
+          "Point18": "563,151"
+        }
+      ]
+    }
+  ]
+}

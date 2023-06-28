@@ -1,0 +1,123 @@
+{
+  "FILE NAME": "11_X001_C802_0217_2.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-01-19 10:08:46",
+  "GPS": "37.5032111111111/126.73745",
+  "ID CODE": "C802",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "4.25mm",
+  "exposure time": "1/122sec",
+  "Aperture values": "1.70",
+  "Sensitivity iso": "25",
+  "exposure method": "normal program",
+  "MAKE": "Apple",
+  "Camera Model Name": "iPhone XS Max",
+  "Software": "14.3",
+  "File Size": "450372",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "책상",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "119/121/116",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "28",
+      "PolygonPoint": [
+        {
+          "Point1": "3,122"
+        },
+        {
+          "Point2": "273,352"
+        },
+        {
+          "Point3": "1323,14"
+        },
+        {
+          "Point4": "1331,23"
+        },
+        {
+          "Point5": "1346,43"
+        },
+        {
+          "Point6": "1282,497"
+        },
+        {
+          "Point7": "785,838"
+        },
+        {
+          "Point8": "705,254"
+        },
+        {
+          "Point9": "235,413"
+        },
+        {
+          "Point10": "248,444"
+        },
+        {
+          "Point11": "339,646"
+        },
+        {
+          "Point12": "374,661"
+        },
+        {
+          "Point13": "427,785"
+        },
+        {
+          "Point14": "431,848"
+        },
+        {
+          "Point15": "444,857"
+        },
+        {
+          "Point16": "553,852"
+        },
+        {
+          "Point17": "630,834"
+        },
+        {
+          "Point18": "673,840"
+        },
+        {
+          "Point19": "728,808"
+        },
+        {
+          "Point20": "749,787"
+        },
+        {
+          "Point21": "749,633"
+        },
+        {
+          "Point22": "747,585"
+        },
+        {
+          "Point23": "782,835"
+        },
+        {
+          "Point24": "428,1054"
+        },
+        {
+          "Point25": "377,949"
+        },
+        {
+          "Point26": "352,908"
+        },
+        {
+          "Point27": "126,632"
+        },
+        {
+          "Point28": "5,336"
+        }
+      ]
+    }
+  ]
+}

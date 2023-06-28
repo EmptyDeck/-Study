@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X004_C188_1130_2.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-11-24 12:23:45",
+  "GPS": "37.5386985/126.637549599722",
+  "ID CODE": "C188",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "7.00mm",
+  "exposure time": "1/203sec",
+  "Aperture values": "1.69",
+  "Sensitivity iso": "16",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G988N",
+  "Software": "G988NKSU1BTI3",
+  "File Size": "386867",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "장롱",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "144/123/108",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "27",
+      "y1": "188",
+      "x2": "1809",
+      "y2": "999"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "FILE NAME": "11_X169_C162_0120_4.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-01-17 16:28:48",
+  "GPS": "37.487191/126.715418972222",
+  "ID CODE": "C162",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "5.40mm",
+  "exposure time": "1/174sec",
+  "Aperture values": "1.69",
+  "Sensitivity iso": "40",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N981N",
+  "Software": "",
+  "File Size": "872665",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "장롱",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "184/196/203",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "원거리",
+      "Drawing": "POLYGON",
+      "PolygonCount": "9",
+      "PolygonPoint": [
+        {
+          "Point1": "758,706"
+        },
+        {
+          "Point2": "1505,790"
+        },
+        {
+          "Point3": "1555,682"
+        },
+        {
+          "Point4": "1546,488"
+        },
+        {
+          "Point5": "1529,344"
+        },
+        {
+          "Point6": "841,292"
+        },
+        {
+          "Point7": "793,421"
+        },
+        {
+          "Point8": "789,422"
+        },
+        {
+          "Point9": "724,600"
+        }
+      ]
+    }
+  ]
+}

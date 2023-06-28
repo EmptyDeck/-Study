@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X002_C015_0925_4.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-09-25 11:05:41",
+  "GPS": "37.5200194444444/126.730727777778",
+  "ID CODE": "C015",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "3.99mm",
+  "exposure time": "1/15sec",
+  "Aperture values": "1.70",
+  "Sensitivity iso": "80",
+  "exposure method": "normal program",
+  "MAKE": "Apple",
+  "Camera Model Name": "iPhone 8",
+  "Software": "13.7",
+  "File Size": "346420",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "협탁",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "110/81/67",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "소",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "446",
+      "y1": "338",
+      "x2": "1369",
+      "y2": "1172"
+    }
+  ]
+}

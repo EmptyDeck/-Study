@@ -1,0 +1,75 @@
+{
+  "FILE NAME": "11_X023_C801_0220_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-09-27 12:29:37",
+  "GPS": "37.2833837/126.5686431",
+  "ID CODE": "C801",
+  "RESOLUTION": "1921*1440",
+  "focus distance": "1.80mm",
+  "exposure time": "1/752sec",
+  "Aperture values": "2.27",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N971N",
+  "Software": "N971NKSU1CTG3",
+  "File Size": "872691",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "장롱",
+      "DAMAGE": "상당훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "154/127/85",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "원거리",
+      "Drawing": "POLYGON",
+      "PolygonCount": "12",
+      "PolygonPoint": [
+        {
+          "Point1": "552,849"
+        },
+        {
+          "Point2": "1142,919"
+        },
+        {
+          "Point3": "1362,836"
+        },
+        {
+          "Point4": "1286,713"
+        },
+        {
+          "Point5": "1275,631"
+        },
+        {
+          "Point6": "1231,602"
+        },
+        {
+          "Point7": "1227,574"
+        },
+        {
+          "Point8": "1137,532"
+        },
+        {
+          "Point9": "718,253"
+        },
+        {
+          "Point10": "699,286"
+        },
+        {
+          "Point11": "670,281"
+        },
+        {
+          "Point12": "598,458"
+        }
+      ]
+    }
+  ]
+}

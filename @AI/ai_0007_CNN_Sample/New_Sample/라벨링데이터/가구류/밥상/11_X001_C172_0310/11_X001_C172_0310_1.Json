@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C172_0310_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-03-10 15:22:49",
+  "GPS": "37.5103748/126.722971",
+  "ID CODE": "C172",
+  "RESOLUTION": "1921*1080",
+  "focus distance": "4.30mm",
+  "exposure time": "1/140sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N960N",
+  "Software": "N960NKSU3FTK1",
+  "File Size": "449751",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "밥상",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "220/126/98",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "447",
+      "y1": "243",
+      "x2": "1324",
+      "y2": "632"
+    }
+  ]
+}

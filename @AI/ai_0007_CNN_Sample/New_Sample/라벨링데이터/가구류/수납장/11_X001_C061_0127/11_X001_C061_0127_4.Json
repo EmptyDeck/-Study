@@ -1,0 +1,54 @@
+{
+  "FILE NAME": "11_X001_C061_0127_4.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-01-27 13:10:04",
+  "GPS": "37.5202777777778/126.745",
+  "ID CODE": "C061",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "3.93mm",
+  "exposure time": "1/120sec",
+  "Aperture values": "1.53",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-A600N",
+  "Software": "A600NKSS5CTI3",
+  "File Size": "264712",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "수납장",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "175/167/161",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "5",
+      "PolygonPoint": [
+        {
+          "Point1": "1019,31"
+        },
+        {
+          "Point2": "445,279"
+        },
+        {
+          "Point3": "809,912"
+        },
+        {
+          "Point4": "1508,515"
+        },
+        {
+          "Point5": "1521,397"
+        }
+      ]
+    }
+  ]
+}

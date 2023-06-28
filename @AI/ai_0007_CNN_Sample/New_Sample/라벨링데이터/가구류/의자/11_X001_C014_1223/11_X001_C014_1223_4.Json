@@ -1,0 +1,162 @@
+{
+  "FILE NAME": "11_X001_C014_1223_4.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-22 12:44:09",
+  "GPS": "37.5930555555556/126.699444444444",
+  "ID CODE": "C014",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "4.20mm",
+  "exposure time": "1/972sec",
+  "Aperture values": "1.53",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G935K",
+  "Software": "G935KKKU3ETJ1",
+  "File Size": "484221",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "의자",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "129/127/83",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "소",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "41",
+      "PolygonPoint": [
+        {
+          "Point1": "1136,687"
+        },
+        {
+          "Point2": "1194,664"
+        },
+        {
+          "Point3": "1231,624"
+        },
+        {
+          "Point4": "1270,551"
+        },
+        {
+          "Point5": "1273,524"
+        },
+        {
+          "Point6": "1307,593"
+        },
+        {
+          "Point7": "1394,756"
+        },
+        {
+          "Point8": "1416,738"
+        },
+        {
+          "Point9": "1407,714"
+        },
+        {
+          "Point10": "1329,541"
+        },
+        {
+          "Point11": "1292,481"
+        },
+        {
+          "Point12": "1272,471"
+        },
+        {
+          "Point13": "1264,432"
+        },
+        {
+          "Point14": "1175,387"
+        },
+        {
+          "Point15": "1050,408"
+        },
+        {
+          "Point16": "954,443"
+        },
+        {
+          "Point17": "935,415"
+        },
+        {
+          "Point18": "973,313"
+        },
+        {
+          "Point19": "930,212"
+        },
+        {
+          "Point20": "803,138"
+        },
+        {
+          "Point21": "702,157"
+        },
+        {
+          "Point22": "644,244"
+        },
+        {
+          "Point23": "637,371"
+        },
+        {
+          "Point24": "661,469"
+        },
+        {
+          "Point25": "726,573"
+        },
+        {
+          "Point26": "798,574"
+        },
+        {
+          "Point27": "839,642"
+        },
+        {
+          "Point28": "809,687"
+        },
+        {
+          "Point29": "851,890"
+        },
+        {
+          "Point30": "870,958"
+        },
+        {
+          "Point31": "906,954"
+        },
+        {
+          "Point32": "843,706"
+        },
+        {
+          "Point33": "865,677"
+        },
+        {
+          "Point34": "913,702"
+        },
+        {
+          "Point35": "999,719"
+        },
+        {
+          "Point36": "1093,699"
+        },
+        {
+          "Point37": "1119,760"
+        },
+        {
+          "Point38": "1255,1047"
+        },
+        {
+          "Point39": "1284,1039"
+        },
+        {
+          "Point40": "1284,1021"
+        },
+        {
+          "Point41": "1151,719"
+        }
+      ]
+    }
+  ]
+}

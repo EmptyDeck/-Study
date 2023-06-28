@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X002_C187_1216_2.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-16 08:15:57",
+  "GPS": "37.515081/126.738326",
+  "ID CODE": "C187",
+  "RESOLUTION": "1440*1921",
+  "focus distance": "4.23mm",
+  "exposure time": "1/120sec",
+  "Aperture values": "1.16",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "LGE",
+  "Camera Model Name": "LM-V500N",
+  "Software": "",
+  "File Size": "429009",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "장롱",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "176/162/126",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "338",
+      "y1": "24",
+      "x2": "1065",
+      "y2": "1854"
+    }
+  ]
+}

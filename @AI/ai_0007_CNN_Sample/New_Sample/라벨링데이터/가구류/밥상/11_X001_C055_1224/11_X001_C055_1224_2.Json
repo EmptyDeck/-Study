@@ -1,0 +1,105 @@
+{
+  "FILE NAME": "11_X001_C055_1224_2.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-22 16:03:55",
+  "GPS": "37.4639337997222/126.6908178",
+  "ID CODE": "C055",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "4.32mm",
+  "exposure time": "1/724sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G977N",
+  "Software": "G977NKSU4DTJ8",
+  "File Size": "553007",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "밥상",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "133/140/150",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "22",
+      "PolygonPoint": [
+        {
+          "Point1": "724,194"
+        },
+        {
+          "Point2": "843,132"
+        },
+        {
+          "Point3": "1018,71"
+        },
+        {
+          "Point4": "1224,90"
+        },
+        {
+          "Point5": "1323,190"
+        },
+        {
+          "Point6": "1350,339"
+        },
+        {
+          "Point7": "1444,498"
+        },
+        {
+          "Point8": "1419,527"
+        },
+        {
+          "Point9": "1388,519"
+        },
+        {
+          "Point10": "1320,434"
+        },
+        {
+          "Point11": "1189,638"
+        },
+        {
+          "Point12": "1047,741"
+        },
+        {
+          "Point13": "984,788"
+        },
+        {
+          "Point14": "1061,941"
+        },
+        {
+          "Point15": "1044,967"
+        },
+        {
+          "Point16": "1007,972"
+        },
+        {
+          "Point17": "862,809"
+        },
+        {
+          "Point18": "739,819"
+        },
+        {
+          "Point19": "564,759"
+        },
+        {
+          "Point20": "501,632"
+        },
+        {
+          "Point21": "511,501"
+        },
+        {
+          "Point22": "596,317"
+        }
+      ]
+    }
+  ]
+}

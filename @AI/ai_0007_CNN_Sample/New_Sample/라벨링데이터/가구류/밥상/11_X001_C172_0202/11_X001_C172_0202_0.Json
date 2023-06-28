@@ -1,0 +1,102 @@
+{
+  "FILE NAME": "11_X001_C172_0202_0.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-02-02 10:39:26",
+  "GPS": "37.5106879/126.7270757",
+  "ID CODE": "C172",
+  "RESOLUTION": "1921*1440",
+  "focus distance": "4.30mm",
+  "exposure time": "1/120sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "64",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N960N",
+  "Software": "N960NKSU3FTK1",
+  "File Size": "368929",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "밥상",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "187/142/118",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "21",
+      "PolygonPoint": [
+        {
+          "Point1": "316,342"
+        },
+        {
+          "Point2": "111,836"
+        },
+        {
+          "Point3": "122,877"
+        },
+        {
+          "Point4": "154,900"
+        },
+        {
+          "Point5": "505,885"
+        },
+        {
+          "Point6": "554,1034"
+        },
+        {
+          "Point7": "630,1100"
+        },
+        {
+          "Point8": "656,1091"
+        },
+        {
+          "Point9": "629,969"
+        },
+        {
+          "Point10": "1298,926"
+        },
+        {
+          "Point11": "1263,1039"
+        },
+        {
+          "Point12": "1294,1056"
+        },
+        {
+          "Point13": "1347,985"
+        },
+        {
+          "Point14": "1392,825"
+        },
+        {
+          "Point15": "1808,783"
+        },
+        {
+          "Point16": "1826,743"
+        },
+        {
+          "Point17": "1816,708"
+        },
+        {
+          "Point18": "1515,291"
+        },
+        {
+          "Point19": "1483,279"
+        },
+        {
+          "Point20": "742,310"
+        },
+        {
+          "Point21": "339,323"
+        }
+      ]
+    }
+  ]
+}

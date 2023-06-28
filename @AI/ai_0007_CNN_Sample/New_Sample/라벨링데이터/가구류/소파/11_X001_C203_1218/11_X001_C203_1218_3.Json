@@ -1,0 +1,126 @@
+{
+  "FILE NAME": "11_X001_C203_1218_3.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-18 14:29:07",
+  "GPS": "37.5166654555556/126.705824705556",
+  "ID CODE": "C203",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "4.30mm",
+  "exposure time": "1/189sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G965N",
+  "Software": "G965NKSU3ETH3",
+  "File Size": "235092",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "소파",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "162/103/77",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "정면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "29",
+      "PolygonPoint": [
+        {
+          "Point1": "1410,59"
+        },
+        {
+          "Point2": "1470,83"
+        },
+        {
+          "Point3": "1501,120"
+        },
+        {
+          "Point4": "1508,178"
+        },
+        {
+          "Point5": "1495,219"
+        },
+        {
+          "Point6": "1524,225"
+        },
+        {
+          "Point7": "1713,320"
+        },
+        {
+          "Point8": "1724,379"
+        },
+        {
+          "Point9": "1683,508"
+        },
+        {
+          "Point10": "1687,630"
+        },
+        {
+          "Point11": "1664,676"
+        },
+        {
+          "Point12": "1606,679"
+        },
+        {
+          "Point13": "1593,769"
+        },
+        {
+          "Point14": "1544,779"
+        },
+        {
+          "Point15": "1510,763"
+        },
+        {
+          "Point16": "1508,683"
+        },
+        {
+          "Point17": "369,729"
+        },
+        {
+          "Point18": "388,799"
+        },
+        {
+          "Point19": "345,818"
+        },
+        {
+          "Point20": "301,819"
+        },
+        {
+          "Point21": "271,723"
+        },
+        {
+          "Point22": "200,723"
+        },
+        {
+          "Point23": "182,597"
+        },
+        {
+          "Point24": "123,461"
+        },
+        {
+          "Point25": "148,384"
+        },
+        {
+          "Point26": "409,286"
+        },
+        {
+          "Point27": "388,230"
+        },
+        {
+          "Point28": "407,166"
+        },
+        {
+          "Point29": "477,132"
+        }
+      ]
+    }
+  ]
+}

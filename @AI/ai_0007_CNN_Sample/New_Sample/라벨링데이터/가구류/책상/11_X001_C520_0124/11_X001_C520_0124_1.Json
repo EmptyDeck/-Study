@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C520_0124_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-01-24 14:08:32",
+  "GPS": "37.5218055555556/126.742225",
+  "ID CODE": "C520",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "4.25mm",
+  "exposure time": "1/133sec",
+  "Aperture values": "1.70",
+  "Sensitivity iso": "25",
+  "exposure method": "normal program",
+  "MAKE": "Apple",
+  "Camera Model Name": "iPhone XR",
+  "Software": "14.3",
+  "File Size": "338767",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "책상",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "125/94/80",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "180",
+      "y1": "135",
+      "x2": "1803",
+      "y2": "866"
+    }
+  ]
+}

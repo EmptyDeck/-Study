@@ -1,0 +1,38 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "build",
+        "type": "shell",
+        "command": "avr-gcc",
+        "args": [
+          "-mmcu=atmega128",
+          "-Os",
+          "-o",
+          "main.elf",
+          "main.c"
+        ],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        }
+      },
+      {
+        "label": "hex",
+        "type": "shell",
+        "command": "avr-objcopy",
+        "args": [
+          "-j",
+          ".text",
+          "-j",
+          ".data",
+          "-O",
+          "ihex",
+          "main.elf",
+          "main.hex"
+        ],
+        "group": "build"
+      }
+    ]
+  }
+  

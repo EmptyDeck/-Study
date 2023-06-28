@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C091_0321_0.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-03-20 18:47:33",
+  "GPS": "37.5204954/126.743774",
+  "ID CODE": "C091",
+  "RESOLUTION": "1921*1080",
+  "focus distance": "4.32mm",
+  "exposure time": "1/40sec",
+  "Aperture values": "1.16",
+  "Sensitivity iso": "64",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G977N",
+  "Software": "G977NKSU4FUBD",
+  "File Size": "134622",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실내",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "밥상",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "137/53/34",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "정면",
+      "Drawing": "BOX",
+      "x1": "442",
+      "y1": "33",
+      "x2": "1298",
+      "y2": "915"
+    }
+  ]
+}

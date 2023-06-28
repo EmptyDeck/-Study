@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C041_0928_3.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-09-28 14:59:30",
+  "GPS": "37.5034345997222/126.728031099722",
+  "ID CODE": "C041",
+  "RESOLUTION": "2282*1080",
+  "focus distance": "4.30mm",
+  "exposure time": "1/120sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "160",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N971N",
+  "Software": "N971NKSU1CTG3",
+  "File Size": "502217",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "의자",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "110/110/109",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "소",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "642",
+      "y1": "57",
+      "x2": "1458",
+      "y2": "1064"
+    }
+  ]
+}

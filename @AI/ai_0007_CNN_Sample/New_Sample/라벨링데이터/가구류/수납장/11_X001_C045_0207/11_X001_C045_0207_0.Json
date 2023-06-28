@@ -1,0 +1,60 @@
+{
+  "FILE NAME": "11_X001_C045_0207_0.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-02-07 18:07:57",
+  "GPS": "37.5193666666667/126.733697222222",
+  "ID CODE": "C045",
+  "RESOLUTION": "1921*1440",
+  "focus distance": "3.99mm",
+  "exposure time": "1/9sec",
+  "Aperture values": "1.70",
+  "Sensitivity iso": "100",
+  "exposure method": "normal program",
+  "MAKE": "Apple",
+  "Camera Model Name": "iPhone 8",
+  "Software": "14.4",
+  "File Size": "428962",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "수납장",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "163/109/85",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "원거리",
+      "Drawing": "POLYGON",
+      "PolygonCount": "7",
+      "PolygonPoint": [
+        {
+          "Point1": "1431,360"
+        },
+        {
+          "Point2": "1437,494"
+        },
+        {
+          "Point3": "1398,703"
+        },
+        {
+          "Point4": "612,596"
+        },
+        {
+          "Point5": "594,397"
+        },
+        {
+          "Point6": "717,288"
+        },
+        {
+          "Point7": "1421,355"
+        }
+      ]
+    }
+  ]
+}

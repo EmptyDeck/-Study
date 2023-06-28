@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C325_1105_2.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-11-05 14:55:22",
+  "GPS": "37.5319667805556/126.723540683333",
+  "ID CODE": "C325",
+  "RESOLUTION": "2221*1080",
+  "focus distance": "4.30mm",
+  "exposure time": "1/120sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N960N",
+  "Software": "N960NKSU3ETH2",
+  "File Size": "712823",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "수납장",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "138/113/95",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "784",
+      "y1": "192",
+      "x2": "1406",
+      "y2": "887"
+    }
+  ]
+}

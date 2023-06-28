@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X018_C201_0929_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-09-29 14:30:23",
+  "GPS": "37.4772222222222/126.711388888889",
+  "ID CODE": "C201",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "3.60mm",
+  "exposure time": "1/316sec",
+  "Aperture values": "1.85",
+  "Sensitivity iso": "40",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-J600L",
+  "Software": "J600LKLU4CTD5",
+  "File Size": "477613",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "침대",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "109/109/108",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "원거리",
+      "Drawing": "BOX",
+      "x1": "656",
+      "y1": "278",
+      "x2": "1493",
+      "y2": "1168"
+    }
+  ]
+}

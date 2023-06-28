@@ -1,0 +1,102 @@
+{
+  "FILE NAME": "11_X001_C016_1221_4.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-21 15:27:33",
+  "GPS": "37.5217579722222/126.740369972222",
+  "ID CODE": "C016",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "4.23mm",
+  "exposure time": "1/284sec",
+  "Aperture values": "1.16",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "LGE",
+  "Camera Model Name": "LM-V409N",
+  "Software": "",
+  "File Size": "669590",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "의자",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "131/113/106",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "소",
+      "Direction": "원거리",
+      "Drawing": "POLYGON",
+      "PolygonCount": "21",
+      "PolygonPoint": [
+        {
+          "Point1": "1021,200"
+        },
+        {
+          "Point2": "996,203"
+        },
+        {
+          "Point3": "758,154"
+        },
+        {
+          "Point4": "731,150"
+        },
+        {
+          "Point5": "721,470"
+        },
+        {
+          "Point6": "678,491"
+        },
+        {
+          "Point7": "519,573"
+        },
+        {
+          "Point8": "557,877"
+        },
+        {
+          "Point9": "592,892"
+        },
+        {
+          "Point10": "603,875"
+        },
+        {
+          "Point11": "612,712"
+        },
+        {
+          "Point12": "801,775"
+        },
+        {
+          "Point13": "806,959"
+        },
+        {
+          "Point14": "840,973"
+        },
+        {
+          "Point15": "859,953"
+        },
+        {
+          "Point16": "881,769"
+        },
+        {
+          "Point17": "922,714"
+        },
+        {
+          "Point18": "936,814"
+        },
+        {
+          "Point19": "978,808"
+        },
+        {
+          "Point20": "970,622"
+        },
+        {
+          "Point21": "1047,204"
+        }
+      ]
+    }
+  ]
+}

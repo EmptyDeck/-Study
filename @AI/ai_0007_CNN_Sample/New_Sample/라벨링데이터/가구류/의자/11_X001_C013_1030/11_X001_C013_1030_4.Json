@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C013_1030_4.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-10-30 17:22:27",
+  "GPS": "37.5186111111111/126.702222222222",
+  "ID CODE": "C013",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "4.20mm",
+  "exposure time": "1/40sec",
+  "Aperture values": "1.53",
+  "Sensitivity iso": "160",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G930S",
+  "Software": "G930SKSU3ETG2",
+  "File Size": "270146",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "의자",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "103/103/113",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "소",
+      "Direction": "정면",
+      "Drawing": "BOX",
+      "x1": "629",
+      "y1": "2",
+      "x2": "1228",
+      "y2": "1080"
+    }
+  ]
+}

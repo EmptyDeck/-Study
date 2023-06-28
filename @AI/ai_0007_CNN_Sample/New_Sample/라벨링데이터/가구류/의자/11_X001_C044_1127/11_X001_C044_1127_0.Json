@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C044_1127_0.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-11-23 11:24:43",
+  "GPS": "37.4876888888889/126.778611111111",
+  "ID CODE": "C044",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "4.25mm",
+  "exposure time": "1/190sec",
+  "Aperture values": "1.70",
+  "Sensitivity iso": "32",
+  "exposure method": "normal program",
+  "MAKE": "Apple",
+  "Camera Model Name": "iPhone 11",
+  "Software": "14.1",
+  "File Size": "917555",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "의자",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "132/129/125",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "소",
+      "Direction": "원거리",
+      "Drawing": "BOX",
+      "x1": "758",
+      "y1": "150",
+      "x2": "1502",
+      "y2": "1368"
+    }
+  ]
+}

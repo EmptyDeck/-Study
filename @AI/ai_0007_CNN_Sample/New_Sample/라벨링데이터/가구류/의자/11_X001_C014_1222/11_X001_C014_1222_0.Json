@@ -1,0 +1,117 @@
+{
+  "FILE NAME": "11_X001_C014_1222_0.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-21 12:14:52",
+  "GPS": "37.6016666666667/126.706388888889",
+  "ID CODE": "C014",
+  "RESOLUTION": "2221*1080",
+  "focus distance": "4.20mm",
+  "exposure time": "1/482sec",
+  "Aperture values": "1.53",
+  "Sensitivity iso": "40",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G950N",
+  "Software": "G950NKSU4DTD1",
+  "File Size": "552444",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "의자",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "138/103/118",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "소",
+      "Direction": "정면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "26",
+      "PolygonPoint": [
+        {
+          "Point1": "1060,716"
+        },
+        {
+          "Point2": "1078,714"
+        },
+        {
+          "Point3": "1135,727"
+        },
+        {
+          "Point4": "1198,735"
+        },
+        {
+          "Point5": "1202,770"
+        },
+        {
+          "Point6": "1225,780"
+        },
+        {
+          "Point7": "1249,780"
+        },
+        {
+          "Point8": "1262,738"
+        },
+        {
+          "Point9": "1285,736"
+        },
+        {
+          "Point10": "1315,768"
+        },
+        {
+          "Point11": "1310,799"
+        },
+        {
+          "Point12": "1286,945"
+        },
+        {
+          "Point13": "1299,951"
+        },
+        {
+          "Point14": "1343,940"
+        },
+        {
+          "Point15": "1339,895"
+        },
+        {
+          "Point16": "1429,542"
+        },
+        {
+          "Point17": "1378,360"
+        },
+        {
+          "Point18": "1309,275"
+        },
+        {
+          "Point19": "1207,244"
+        },
+        {
+          "Point20": "1090,267"
+        },
+        {
+          "Point21": "1021,350"
+        },
+        {
+          "Point22": "983,664"
+        },
+        {
+          "Point23": "935,898"
+        },
+        {
+          "Point24": "976,913"
+        },
+        {
+          "Point25": "992,910"
+        },
+        {
+          "Point26": "1050,734"
+        }
+      ]
+    }
+  ]
+}

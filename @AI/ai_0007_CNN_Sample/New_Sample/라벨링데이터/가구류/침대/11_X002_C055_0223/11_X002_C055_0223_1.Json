@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X002_C055_0223_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-02-22 16:00:57",
+  "GPS": "37.4643390997222/126.691290399722",
+  "ID CODE": "C055",
+  "RESOLUTION": "1921*1080",
+  "focus distance": "4.32mm",
+  "exposure time": "1/206sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G977N",
+  "Software": "G977NKSU4DTJ8",
+  "File Size": "570228",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "침대",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "135/134/133",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "274",
+      "y1": "158",
+      "x2": "1432",
+      "y2": "855"
+    }
+  ]
+}

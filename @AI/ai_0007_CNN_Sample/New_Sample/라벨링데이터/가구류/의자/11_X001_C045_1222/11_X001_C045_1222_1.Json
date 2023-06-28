@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C045_1222_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-21 08:07:29",
+  "GPS": "37.5226030027778/126.745339819444",
+  "ID CODE": "C045",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "3.60mm",
+  "exposure time": "1/60sec",
+  "Aperture values": "1.85",
+  "Sensitivity iso": "125",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-A205S",
+  "Software": "A205SKSU3ATA1",
+  "File Size": "296817",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "의자",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "160/155/157",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "소",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "460",
+      "y1": "183",
+      "x2": "1111",
+      "y2": "1361"
+    }
+  ]
+}

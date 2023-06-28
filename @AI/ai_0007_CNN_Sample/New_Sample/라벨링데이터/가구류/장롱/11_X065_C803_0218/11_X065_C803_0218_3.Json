@@ -1,0 +1,84 @@
+{
+  "FILE NAME": "11_X065_C803_0218_3.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-20 12:03:28",
+  "GPS": "37.5292944444444/126.719422222222",
+  "ID CODE": "C803",
+  "RESOLUTION": "1440*1921",
+  "focus distance": "4.25mm",
+  "exposure time": "1/122sec",
+  "Aperture values": "1.70",
+  "Sensitivity iso": "64",
+  "exposure method": "normal program",
+  "MAKE": "Apple",
+  "Camera Model Name": "iPhone 11",
+  "Software": "13.6.1",
+  "File Size": "603160",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "장롱",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "116/103/93",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "15",
+      "PolygonPoint": [
+        {
+          "Point1": "1194,389"
+        },
+        {
+          "Point2": "1200,444"
+        },
+        {
+          "Point3": "1178,444"
+        },
+        {
+          "Point4": "1111,1398"
+        },
+        {
+          "Point5": "1133,1416"
+        },
+        {
+          "Point6": "1119,1437"
+        },
+        {
+          "Point7": "1151,1475"
+        },
+        {
+          "Point8": "645,1793"
+        },
+        {
+          "Point9": "586,1848"
+        },
+        {
+          "Point10": "482,1677"
+        },
+        {
+          "Point11": "376,1553"
+        },
+        {
+          "Point12": "419,1522"
+        },
+        {
+          "Point13": "336,362"
+        },
+        {
+          "Point14": "555,315"
+        },
+        {
+          "Point15": "637,322"
+        }
+      ]
+    }
+  ]
+}

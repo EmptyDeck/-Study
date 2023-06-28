@@ -1,0 +1,99 @@
+{
+  "FILE NAME": "11_X001_C058_0217_3.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-02-17 16:12:07",
+  "GPS": "37.4759559/126.7490604",
+  "ID CODE": "C058",
+  "RESOLUTION": "1921*1440",
+  "focus distance": "1.80mm",
+  "exposure time": "1/60sec",
+  "Aperture values": "2.27",
+  "Sensitivity iso": "64",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G977N",
+  "Software": "G977NKSU4DTJ8",
+  "File Size": "174529",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실내",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "밥상",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "157/175/189",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "20",
+      "PolygonPoint": [
+        {
+          "Point1": "1527,830"
+        },
+        {
+          "Point2": "1536,863"
+        },
+        {
+          "Point3": "1526,889"
+        },
+        {
+          "Point4": "1459,902"
+        },
+        {
+          "Point5": "1321,915"
+        },
+        {
+          "Point6": "1269,940"
+        },
+        {
+          "Point7": "1259,929"
+        },
+        {
+          "Point8": "870,958"
+        },
+        {
+          "Point9": "859,975"
+        },
+        {
+          "Point10": "795,970"
+        },
+        {
+          "Point11": "766,969"
+        },
+        {
+          "Point12": "726,966"
+        },
+        {
+          "Point13": "710,950"
+        },
+        {
+          "Point14": "696,924"
+        },
+        {
+          "Point15": "687,174"
+        },
+        {
+          "Point16": "693,157"
+        },
+        {
+          "Point17": "728,151"
+        },
+        {
+          "Point18": "1254,137"
+        },
+        {
+          "Point19": "1276,142"
+        },
+        {
+          "Point20": "1298,156"
+        }
+      ]
+    }
+  ]
+}

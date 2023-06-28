@@ -1,0 +1,57 @@
+{
+  "FILE NAME": "11_X001_C320_1228_0.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-23 15:28:48",
+  "GPS": "37.5106947833333/126.739086438889",
+  "ID CODE": "C320",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "4.30mm",
+  "exposure time": "1/50sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "100",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N960N",
+  "Software": "N960NKSU3FTK1",
+  "File Size": "481860",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "수납장",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "154/125/112",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "정면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "6",
+      "PolygonPoint": [
+        {
+          "Point1": "1356,84"
+        },
+        {
+          "Point2": "648,103"
+        },
+        {
+          "Point3": "560,196"
+        },
+        {
+          "Point4": "699,989"
+        },
+        {
+          "Point5": "1354,971"
+        },
+        {
+          "Point6": "1440,158"
+        }
+      ]
+    }
+  ]
+}

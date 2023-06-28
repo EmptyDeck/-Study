@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C044_1202_2.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-14 15:00:34",
+  "GPS": "37.52166666666667/126.74166666666666",
+  "ID CODE": "C044",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "4.2mm",
+  "exposure time": "1/512sec",
+  "Aperture values": "1.53",
+  "Sensitivity iso": "40",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G950N",
+  "Software": "G950NKSU5DTJ2",
+  "File Size": "453117",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "밥상",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "141/150/159",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "100",
+      "y1": "231",
+      "x2": "1822",
+      "y2": "918"
+    }
+  ]
+}

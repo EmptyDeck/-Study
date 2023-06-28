@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C021_1016_2.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-10-15 15:11:28",
+  "GPS": "37.5355555555556/126.703333333333",
+  "ID CODE": "C021",
+  "RESOLUTION": "2221*1080",
+  "focus distance": "4.30mm",
+  "exposure time": "1/190sec",
+  "Aperture values": "1.53",
+  "Sensitivity iso": "40",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N950N",
+  "Software": "N950NKSU5DTG1",
+  "File Size": "685284",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "의자",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "159/149/148",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "소",
+      "Direction": "정면",
+      "Drawing": "BOX",
+      "x1": "844",
+      "y1": "94",
+      "x2": "1266",
+      "y2": "958"
+    }
+  ]
+}

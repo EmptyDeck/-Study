@@ -1,0 +1,123 @@
+{
+  "FILE NAME": "11_X006_C173_1013_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-10-13 15:41:16",
+  "GPS": "37.5128279997222/126.7293673",
+  "ID CODE": "C173",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "4.30mm",
+  "exposure time": "1/100sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "80",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N971N",
+  "Software": "N971NKSU1CTG3",
+  "File Size": "226377",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "화장대",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "143/143/136",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "윗면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "28",
+      "PolygonPoint": [
+        {
+          "Point1": "310,1423"
+        },
+        {
+          "Point2": "246,1356"
+        },
+        {
+          "Point3": "195,1316"
+        },
+        {
+          "Point4": "138,1241"
+        },
+        {
+          "Point5": "141,1184"
+        },
+        {
+          "Point6": "94,1090"
+        },
+        {
+          "Point7": "37,1063"
+        },
+        {
+          "Point8": "0,1023"
+        },
+        {
+          "Point9": "0,966"
+        },
+        {
+          "Point10": "3,848"
+        },
+        {
+          "Point11": "54,690"
+        },
+        {
+          "Point12": "165,484"
+        },
+        {
+          "Point13": "212,373"
+        },
+        {
+          "Point14": "239,350"
+        },
+        {
+          "Point15": "953,400"
+        },
+        {
+          "Point16": "1543,431"
+        },
+        {
+          "Point17": "1677,451"
+        },
+        {
+          "Point18": "1873,831"
+        },
+        {
+          "Point19": "1910,945"
+        },
+        {
+          "Point20": "1910,1030"
+        },
+        {
+          "Point21": "1896,1063"
+        },
+        {
+          "Point22": "1805,1120"
+        },
+        {
+          "Point23": "1728,1194"
+        },
+        {
+          "Point24": "1694,1248"
+        },
+        {
+          "Point25": "1657,1322"
+        },
+        {
+          "Point26": "1563,1379"
+        },
+        {
+          "Point27": "1442,1427"
+        },
+        {
+          "Point28": "1233,1430"
+        }
+      ]
+    }
+  ]
+}

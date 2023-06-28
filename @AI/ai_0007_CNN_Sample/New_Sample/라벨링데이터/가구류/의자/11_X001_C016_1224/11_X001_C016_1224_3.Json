@@ -1,0 +1,99 @@
+{
+  "FILE NAME": "11_X001_C016_1224_3.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-19 14:53:19",
+  "GPS": "37.519499/126.744235",
+  "ID CODE": "C016",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "4.23mm",
+  "exposure time": "1/60sec",
+  "Aperture values": "1.16",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "LGE",
+  "Camera Model Name": "LM-V409N",
+  "Software": "",
+  "File Size": "371214",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "의자",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "157/121/106",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "소",
+      "Direction": "정면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "20",
+      "PolygonPoint": [
+        {
+          "Point1": "505,76"
+        },
+        {
+          "Point2": "597,75"
+        },
+        {
+          "Point3": "917,19"
+        },
+        {
+          "Point4": "1017,7"
+        },
+        {
+          "Point5": "1000,110"
+        },
+        {
+          "Point6": "1066,639"
+        },
+        {
+          "Point7": "1118,988"
+        },
+        {
+          "Point8": "1095,1008"
+        },
+        {
+          "Point9": "1132,1332"
+        },
+        {
+          "Point10": "1115,1337"
+        },
+        {
+          "Point11": "1071,1340"
+        },
+        {
+          "Point12": "998,981"
+        },
+        {
+          "Point13": "651,1011"
+        },
+        {
+          "Point14": "624,1074"
+        },
+        {
+          "Point15": "685,1323"
+        },
+        {
+          "Point16": "671,1345"
+        },
+        {
+          "Point17": "637,1345"
+        },
+        {
+          "Point18": "483,969"
+        },
+        {
+          "Point19": "459,925"
+        },
+        {
+          "Point20": "654,674"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C053_1124_4.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-11-24 15:10:22",
+  "GPS": "37.4163888888889/126.677777777778",
+  "ID CODE": "C053",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "4.20mm",
+  "exposure time": "1/304sec",
+  "Aperture values": "1.53",
+  "Sensitivity iso": "40",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G950N",
+  "Software": "G950NKSU5DTG1",
+  "File Size": "414018",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "책상",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "142/140/133",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "원거리",
+      "Drawing": "BOX",
+      "x1": "487",
+      "y1": "186",
+      "x2": "1409",
+      "y2": "979"
+    }
+  ]
+}

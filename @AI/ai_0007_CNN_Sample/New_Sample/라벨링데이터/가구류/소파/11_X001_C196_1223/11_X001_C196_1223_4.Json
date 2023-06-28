@@ -1,0 +1,90 @@
+{
+  "FILE NAME": "11_X001_C196_1223_4.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-23 13:25:18",
+  "GPS": "37.4540862638889/126.730798819444",
+  "ID CODE": "C196",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "4.30mm",
+  "exposure time": "1/152sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G965N",
+  "Software": "G965NKSU3FTK1",
+  "File Size": "377627",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "소파",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "147/143/138",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "원거리",
+      "Drawing": "POLYGON",
+      "PolygonCount": "17",
+      "PolygonPoint": [
+        {
+          "Point1": "1431,458"
+        },
+        {
+          "Point2": "1376,724"
+        },
+        {
+          "Point3": "1381,793"
+        },
+        {
+          "Point4": "1367,890"
+        },
+        {
+          "Point5": "1320,984"
+        },
+        {
+          "Point6": "1279,994"
+        },
+        {
+          "Point7": "674,1018"
+        },
+        {
+          "Point8": "644,984"
+        },
+        {
+          "Point9": "621,788"
+        },
+        {
+          "Point10": "633,696"
+        },
+        {
+          "Point11": "704,265"
+        },
+        {
+          "Point12": "721,253"
+        },
+        {
+          "Point13": "954,261"
+        },
+        {
+          "Point14": "1012,129"
+        },
+        {
+          "Point15": "1043,83"
+        },
+        {
+          "Point16": "1096,80"
+        },
+        {
+          "Point17": "1410,370"
+        }
+      ]
+    }
+  ]
+}

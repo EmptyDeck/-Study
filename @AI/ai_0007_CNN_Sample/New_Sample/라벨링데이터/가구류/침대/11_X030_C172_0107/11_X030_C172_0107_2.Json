@@ -1,0 +1,108 @@
+{
+  "FILE NAME": "11_X030_C172_0107_2.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-10-19 13:34:58",
+  "GPS": "37.5211003/126.728439",
+  "ID CODE": "C172",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "6.00mm",
+  "exposure time": "1/947sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "100",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N960N",
+  "Software": "N960NKSU3DSLC",
+  "File Size": "554715",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "침대",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "177/159/130",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "뒷면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "23",
+      "PolygonPoint": [
+        {
+          "Point1": "461,874"
+        },
+        {
+          "Point2": "507,880"
+        },
+        {
+          "Point3": "516,850"
+        },
+        {
+          "Point4": "611,1023"
+        },
+        {
+          "Point5": "590,1204"
+        },
+        {
+          "Point6": "661,1219"
+        },
+        {
+          "Point7": "689,1151"
+        },
+        {
+          "Point8": "880,1162"
+        },
+        {
+          "Point9": "1112,1122"
+        },
+        {
+          "Point10": "1112,1170"
+        },
+        {
+          "Point11": "1187,1170"
+        },
+        {
+          "Point12": "1187,1116"
+        },
+        {
+          "Point13": "1221,1101"
+        },
+        {
+          "Point14": "1278,278"
+        },
+        {
+          "Point15": "1236,251"
+        },
+        {
+          "Point16": "1046,252"
+        },
+        {
+          "Point17": "931,217"
+        },
+        {
+          "Point18": "910,240"
+        },
+        {
+          "Point19": "680,240"
+        },
+        {
+          "Point20": "632,250"
+        },
+        {
+          "Point21": "617,290"
+        },
+        {
+          "Point22": "488,210"
+        },
+        {
+          "Point23": "470,206"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X002_C162_1109_3.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-11-09 10:59:33",
+  "GPS": "37.5672369722222/126.681094972222",
+  "ID CODE": "C162",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "5.40mm",
+  "exposure time": "1/120sec",
+  "Aperture values": "1.69",
+  "Sensitivity iso": "40",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N981N",
+  "Software": "",
+  "File Size": "727701",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "협탁",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "163/154/146",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "소",
+      "Direction": "원거리",
+      "Drawing": "BOX",
+      "x1": "867",
+      "y1": "250",
+      "x2": "1342",
+      "y2": "742"
+    }
+  ]
+}

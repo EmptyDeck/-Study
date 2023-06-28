@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C033_1019_4.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-10-16 13:46:51",
+  "GPS": "37.51456/126.766615972222",
+  "ID CODE": "C033",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "4.23mm",
+  "exposure time": "1/1010sec",
+  "Aperture values": "1.16",
+  "Sensitivity iso": "100",
+  "exposure method": "normal program",
+  "MAKE": "LGE",
+  "Camera Model Name": "LM-V500N",
+  "Software": "",
+  "File Size": "458800",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "의자",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "134/115/105",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "소",
+      "Direction": "정면",
+      "Drawing": "BOX",
+      "x1": "857",
+      "y1": "67",
+      "x2": "1465",
+      "y2": "1293"
+    }
+  ]
+}

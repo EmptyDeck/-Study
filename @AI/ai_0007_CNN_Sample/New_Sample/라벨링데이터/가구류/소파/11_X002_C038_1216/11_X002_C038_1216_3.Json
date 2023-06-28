@@ -1,0 +1,133 @@
+{
+  "FILE NAME": "11_X002_C038_1216_3.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-16 15:51:43",
+  "GPS": "37.4876508388889/126.744461683333",
+  "ID CODE": "C038",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "4.30mm",
+  "exposure time": "1/60sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "64",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G965N",
+  "Software": "G965NKSU3FTJ2",
+  "File Size": "434317",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "2",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "소파",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "163/133/138",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "26",
+      "PolygonPoint": [
+        {
+          "Point1": "1319,430"
+        },
+        {
+          "Point2": "987,953"
+        },
+        {
+          "Point3": "978,1007"
+        },
+        {
+          "Point4": "892,990"
+        },
+        {
+          "Point5": "902,936"
+        },
+        {
+          "Point6": "551,819"
+        },
+        {
+          "Point7": "554,862"
+        },
+        {
+          "Point8": "470,858"
+        },
+        {
+          "Point9": "464,801"
+        },
+        {
+          "Point10": "433,756"
+        },
+        {
+          "Point11": "399,729"
+        },
+        {
+          "Point12": "394,585"
+        },
+        {
+          "Point13": "530,498"
+        },
+        {
+          "Point14": "729,409"
+        },
+        {
+          "Point15": "890,332"
+        },
+        {
+          "Point16": "939,287"
+        },
+        {
+          "Point17": "982,261"
+        },
+        {
+          "Point18": "1099,270"
+        },
+        {
+          "Point19": "1187,201"
+        },
+        {
+          "Point20": "1216,163"
+        },
+        {
+          "Point21": "1249,127"
+        },
+        {
+          "Point22": "1273,127"
+        },
+        {
+          "Point23": "1366,175"
+        },
+        {
+          "Point24": "1314,287"
+        },
+        {
+          "Point25": "1268,391"
+        },
+        {
+          "Point26": "1311,401"
+        }
+      ]
+    },
+    {
+      "CLASS": "플라스틱류",
+      "DETAILS": "대용량플라스틱통",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "168/78/83",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "소",
+      "Direction": "원거리",
+      "Drawing": "BOX",
+      "x1": "1301",
+      "y1": "299",
+      "x2": "1443",
+      "y2": "442"
+    }
+  ]
+}

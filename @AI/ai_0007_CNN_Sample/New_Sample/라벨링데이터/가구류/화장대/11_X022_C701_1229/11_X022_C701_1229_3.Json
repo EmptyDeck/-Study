@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X022_C701_1229_3.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-11-03 16:08:42",
+  "GPS": "37.5191068/126.735785399722",
+  "ID CODE": "C701",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "4.32mm",
+  "exposure time": "83/10000sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "160",
+  "exposure method": "",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G977N",
+  "Software": "",
+  "File Size": "503555",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "화장대",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "151/114/86",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "뒷면",
+      "Drawing": "BOX",
+      "x1": "552",
+      "y1": "97",
+      "x2": "1117",
+      "y2": "1004"
+    }
+  ]
+}

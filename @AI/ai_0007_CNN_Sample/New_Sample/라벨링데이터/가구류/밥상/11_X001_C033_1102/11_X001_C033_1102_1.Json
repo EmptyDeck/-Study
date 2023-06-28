@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C033_1102_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-10-31 15:54:36",
+  "GPS": "37.4945519722222/126.928056972222",
+  "ID CODE": "C033",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "4.23mm",
+  "exposure time": "1/131sec",
+  "Aperture values": "1.16",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "LGE",
+  "Camera Model Name": "LM-V500N",
+  "Software": "",
+  "File Size": "456388",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "밥상",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "208/151/147",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "윗면",
+      "Drawing": "BOX",
+      "x1": "403",
+      "y1": "85",
+      "x2": "1578",
+      "y2": "1165"
+    }
+  ]
+}

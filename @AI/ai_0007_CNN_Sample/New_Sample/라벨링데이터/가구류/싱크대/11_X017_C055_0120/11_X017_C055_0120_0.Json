@@ -1,0 +1,69 @@
+{
+  "FILE NAME": "11_X017_C055_0120_0.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-01-17 23:03:40",
+  "GPS": "37.4478604997222/126.683177999722",
+  "ID CODE": "C055",
+  "RESOLUTION": "2121*1080",
+  "focus distance": "1.80mm",
+  "exposure time": "1/191sec",
+  "Aperture values": "2.27",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G977N",
+  "Software": "Windows Photo Editor 10.0.10011.16384",
+  "File Size": "512218",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "싱크대",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "129/118/110",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "원거리",
+      "Drawing": "POLYGON",
+      "PolygonCount": "10",
+      "PolygonPoint": [
+        {
+          "Point1": "1084,113"
+        },
+        {
+          "Point2": "1101,15"
+        },
+        {
+          "Point3": "1620,52"
+        },
+        {
+          "Point4": "1586,149"
+        },
+        {
+          "Point5": "1771,479"
+        },
+        {
+          "Point6": "1741,512"
+        },
+        {
+          "Point7": "1450,882"
+        },
+        {
+          "Point8": "1034,810"
+        },
+        {
+          "Point9": "1009,793"
+        },
+        {
+          "Point10": "949,386"
+        }
+      ]
+    }
+  ]
+}

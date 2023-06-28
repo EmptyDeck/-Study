@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X003_C192_1022_8.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-10-22 10:16:32",
+  "GPS": "37.4401805555556/126.709244444444",
+  "ID CODE": "C192",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "3.99mm",
+  "exposure time": "1/332sec",
+  "Aperture values": "1.70",
+  "Sensitivity iso": "20",
+  "exposure method": "normal program",
+  "MAKE": "Apple",
+  "Camera Model Name": "iPhone 7 Plus",
+  "Software": "13.7",
+  "File Size": "602825",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "서랍장",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "109/107/102",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "300",
+      "y1": "39",
+      "x2": "1461",
+      "y2": "1134"
+    }
+  ]
+}

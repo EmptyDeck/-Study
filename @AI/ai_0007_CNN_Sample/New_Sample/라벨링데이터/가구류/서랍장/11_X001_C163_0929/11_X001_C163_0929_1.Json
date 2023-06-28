@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C163_0929_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-09-28 09:23:07",
+  "GPS": "37.5141666666667/126.723611111111",
+  "ID CODE": "C163",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "4.30mm",
+  "exposure time": "1/60sec",
+  "Aperture values": "1.85",
+  "Sensitivity iso": "64",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G920L",
+  "Software": "G920LKLU3ERG1",
+  "File Size": "201530",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "서랍장",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "151/142/135",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "423",
+      "y1": "26",
+      "x2": "1462",
+      "y2": "760"
+    }
+  ]
+}

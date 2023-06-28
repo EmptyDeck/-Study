@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C039_1028_2.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-10-28 13:07:53",
+  "GPS": "37.4985346055556/126.733253336111",
+  "ID CODE": "C039",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "4.30mm",
+  "exposure time": "1/60sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "125",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G965N",
+  "Software": "G965NKSU3ETH3",
+  "File Size": "574072",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "책상",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "178/174/171",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "윗면",
+      "Drawing": "BOX",
+      "x1": "0",
+      "y1": "194",
+      "x2": "1791",
+      "y2": "1027"
+    }
+  ]
+}

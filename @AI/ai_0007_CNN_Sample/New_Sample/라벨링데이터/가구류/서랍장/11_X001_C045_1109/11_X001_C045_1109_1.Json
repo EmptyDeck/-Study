@@ -1,0 +1,69 @@
+{
+  "FILE NAME": "11_X001_C045_1109_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-11-05 10:11:14",
+  "GPS": "37.5194444444444/126.747222222222",
+  "ID CODE": "C045",
+  "RESOLUTION": "4128*2322",
+  "focus distance": "3.71mm",
+  "exposure time": "1/162sec",
+  "Aperture values": "1.53",
+  "Sensitivity iso": "40",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-J530S",
+  "Software": "J530SKSU6CTH1",
+  "File Size": "1609748",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "서랍장",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "146/141/138",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "정면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "10",
+      "PolygonPoint": [
+        {
+          "Point1": "245,1871"
+        },
+        {
+          "Point2": "111,918"
+        },
+        {
+          "Point3": "82,908"
+        },
+        {
+          "Point4": "65,761"
+        },
+        {
+          "Point5": "516,551"
+        },
+        {
+          "Point6": "3419,650"
+        },
+        {
+          "Point7": "3939,885"
+        },
+        {
+          "Point8": "3926,1025"
+        },
+        {
+          "Point9": "3899,1032"
+        },
+        {
+          "Point10": "3690,1888"
+        }
+      ]
+    }
+  ]
+}

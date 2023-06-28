@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X003_C998_0302_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-03-04 18:41:36",
+  "GPS": "37.5435666666667/126.744347222222",
+  "ID CODE": "C998",
+  "RESOLUTION": "1440*1921",
+  "focus distance": "2.91mm",
+  "exposure time": "1/423sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "32",
+  "exposure method": "normal program",
+  "MAKE": "",
+  "Camera Model Name": "",
+  "Software": "",
+  "File Size": "459911",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실내",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "서랍장",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "154/165/149",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "정면",
+      "Drawing": "BOX",
+      "x1": "498",
+      "y1": "186",
+      "x2": "1315",
+      "y2": "1197"
+    }
+  ]
+}

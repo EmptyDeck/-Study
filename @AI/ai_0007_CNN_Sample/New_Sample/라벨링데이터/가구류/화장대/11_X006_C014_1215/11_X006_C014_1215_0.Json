@@ -1,0 +1,99 @@
+{
+  "FILE NAME": "11_X006_C014_1215_0.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-14 14:11:47",
+  "GPS": "37.5961111111111/126.698055555556",
+  "ID CODE": "C014",
+  "RESOLUTION": "2221*1080",
+  "focus distance": "4.20mm",
+  "exposure time": "1/151sec",
+  "Aperture values": "1.53",
+  "Sensitivity iso": "40",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G950N",
+  "Software": "G950NKSU4DTD1",
+  "File Size": "369405",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "화장대",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "159/165/168",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "원거리",
+      "Drawing": "POLYGON",
+      "PolygonCount": "20",
+      "PolygonPoint": [
+        {
+          "Point1": "1082,139"
+        },
+        {
+          "Point2": "1010,131"
+        },
+        {
+          "Point3": "951,166"
+        },
+        {
+          "Point4": "888,272"
+        },
+        {
+          "Point5": "877,187"
+        },
+        {
+          "Point6": "831,181"
+        },
+        {
+          "Point7": "850,535"
+        },
+        {
+          "Point8": "695,553"
+        },
+        {
+          "Point9": "687,727"
+        },
+        {
+          "Point10": "1390,709"
+        },
+        {
+          "Point11": "1384,610"
+        },
+        {
+          "Point12": "1357,530"
+        },
+        {
+          "Point13": "1221,518"
+        },
+        {
+          "Point14": "1232,377"
+        },
+        {
+          "Point15": "1230,189"
+        },
+        {
+          "Point16": "1192,190"
+        },
+        {
+          "Point17": "1182,268"
+        },
+        {
+          "Point18": "1149,206"
+        },
+        {
+          "Point19": "1131,187"
+        },
+        {
+          "Point20": "1104,161"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X004_C023_1022_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-10-22 14:46:27",
+  "GPS": "37.4617289722222/126.725785",
+  "ID CODE": "C023",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "7.00mm",
+  "exposure time": "1/120sec",
+  "Aperture values": "1.69",
+  "Sensitivity iso": "40",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G988N",
+  "Software": "",
+  "File Size": "362493",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "서랍장",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "152/148/147",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "정면",
+      "Drawing": "BOX",
+      "x1": "404",
+      "y1": "57",
+      "x2": "1411",
+      "y2": "1202"
+    }
+  ]
+}

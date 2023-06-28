@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C185_0929_4.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-09-28 12:07:21",
+  "GPS": "37.5001800722222/126.746419827778",
+  "ID CODE": "C185",
+  "RESOLUTION": "2341*1080",
+  "focus distance": "3.93mm",
+  "exposure time": "166/10000sec",
+  "Aperture values": "1.53",
+  "Sensitivity iso": "160",
+  "exposure method": "",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-A505N",
+  "Software": "",
+  "File Size": "463337",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "밥상",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "134/130/127",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "498",
+      "y1": "66",
+      "x2": "1917",
+      "y2": "1077"
+    }
+  ]
+}

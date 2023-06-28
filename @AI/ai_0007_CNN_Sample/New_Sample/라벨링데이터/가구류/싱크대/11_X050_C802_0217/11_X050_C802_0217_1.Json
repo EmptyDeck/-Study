@@ -1,0 +1,108 @@
+{
+  "FILE NAME": "11_X050_C802_0217_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-01-20 10:36:12",
+  "GPS": "37.5043722222222/126.734511111111",
+  "ID CODE": "C802",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "4.25mm",
+  "exposure time": "1/212sec",
+  "Aperture values": "1.70",
+  "Sensitivity iso": "25",
+  "exposure method": "normal program",
+  "MAKE": "Apple",
+  "Camera Model Name": "iPhone XS Max",
+  "Software": "14.3",
+  "File Size": "327887",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "싱크대",
+      "DAMAGE": "상당훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "136/98/72",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "정면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "23",
+      "PolygonPoint": [
+        {
+          "Point1": "1343,133"
+        },
+        {
+          "Point2": "1317,703"
+        },
+        {
+          "Point3": "1268,694"
+        },
+        {
+          "Point4": "1266,789"
+        },
+        {
+          "Point5": "1224,789"
+        },
+        {
+          "Point6": "1221,705"
+        },
+        {
+          "Point7": "1046,719"
+        },
+        {
+          "Point8": "1039,715"
+        },
+        {
+          "Point9": "568,737"
+        },
+        {
+          "Point10": "574,822"
+        },
+        {
+          "Point11": "528,830"
+        },
+        {
+          "Point12": "518,742"
+        },
+        {
+          "Point13": "475,745"
+        },
+        {
+          "Point14": "387,165"
+        },
+        {
+          "Point15": "380,108"
+        },
+        {
+          "Point16": "468,94"
+        },
+        {
+          "Point17": "533,81"
+        },
+        {
+          "Point18": "1101,70"
+        },
+        {
+          "Point19": "1104,112"
+        },
+        {
+          "Point20": "1117,92"
+        },
+        {
+          "Point21": "1145,70"
+        },
+        {
+          "Point22": "1238,68"
+        },
+        {
+          "Point23": "1292,93"
+        }
+      ]
+    }
+  ]
+}

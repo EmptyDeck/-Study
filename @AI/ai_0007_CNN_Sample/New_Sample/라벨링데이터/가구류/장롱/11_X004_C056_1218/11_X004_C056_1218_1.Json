@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X004_C056_1218_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-18 12:53:59",
+  "GPS": "37.5096129416667/126.724228202778",
+  "ID CODE": "C056",
+  "RESOLUTION": "1080*1920",
+  "focus distance": "4.30mm",
+  "exposure time": "1/1931sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G960N",
+  "Software": "G960NKSU3FTJ2",
+  "File Size": "247621",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "장롱",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "165/146/127",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "132",
+      "y1": "103",
+      "x2": "830",
+      "y2": "1547"
+    }
+  ]
+}

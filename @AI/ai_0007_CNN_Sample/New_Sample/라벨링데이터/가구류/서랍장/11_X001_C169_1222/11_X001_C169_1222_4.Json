@@ -1,0 +1,63 @@
+{
+  "FILE NAME": "11_X001_C169_1222_4.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-22 10:20:21",
+  "GPS": "37.4908829/126.7063564",
+  "ID CODE": "C169",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "4.32mm",
+  "exposure time": "1/512sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G973N",
+  "Software": "G973NKSU5DTH7",
+  "File Size": "662919",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "서랍장",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "134/136/137",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "원거리",
+      "Drawing": "POLYGON",
+      "PolygonCount": "8",
+      "PolygonPoint": [
+        {
+          "Point1": "732,74"
+        },
+        {
+          "Point2": "886,36"
+        },
+        {
+          "Point3": "1000,207"
+        },
+        {
+          "Point4": "1212,524"
+        },
+        {
+          "Point5": "1215,951"
+        },
+        {
+          "Point6": "950,1043"
+        },
+        {
+          "Point7": "775,447"
+        },
+        {
+          "Point8": "710,148"
+        }
+      ]
+    }
+  ]
+}

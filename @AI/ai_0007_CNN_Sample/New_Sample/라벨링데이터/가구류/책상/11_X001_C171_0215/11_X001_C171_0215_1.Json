@@ -1,0 +1,81 @@
+{
+  "FILE NAME": "11_X001_C171_0215_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-02-15 12:04:32",
+  "GPS": "37.5109222997222/126.724386499722",
+  "ID CODE": "C171",
+  "RESOLUTION": "1921*1440",
+  "focus distance": "4.25mm",
+  "exposure time": "1/865sec",
+  "Aperture values": "1.69",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-F707N",
+  "Software": "F707NKSU1BTL6",
+  "File Size": "766671",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "책상",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "119/115/112",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "14",
+      "PolygonPoint": [
+        {
+          "Point1": "672,820"
+        },
+        {
+          "Point2": "976,689"
+        },
+        {
+          "Point3": "982,661"
+        },
+        {
+          "Point4": "1052,711"
+        },
+        {
+          "Point5": "978,1150"
+        },
+        {
+          "Point6": "998,1169"
+        },
+        {
+          "Point7": "1310,962"
+        },
+        {
+          "Point8": "1454,521"
+        },
+        {
+          "Point9": "1009,256"
+        },
+        {
+          "Point10": "657,325"
+        },
+        {
+          "Point11": "640,336"
+        },
+        {
+          "Point12": "633,367"
+        },
+        {
+          "Point13": "646,384"
+        },
+        {
+          "Point14": "664,775"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C039_1208_4.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-08 14:25:25",
+  "GPS": "37.5041666666667/126.733333333333",
+  "ID CODE": "C039",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "3.71mm",
+  "exposure time": "1/159sec",
+  "Aperture values": "1.53",
+  "Sensitivity iso": "40",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-J530L",
+  "Software": "J530LKLU1AQK1",
+  "File Size": "328568",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "수납장",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "82/65/65",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "원거리",
+      "Drawing": "BOX",
+      "x1": "483",
+      "y1": "119",
+      "x2": "873",
+      "y2": "977"
+    }
+  ]
+}

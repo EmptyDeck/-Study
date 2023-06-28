@@ -1,0 +1,69 @@
+{
+  "FILE NAME": "11_X002_C173_0125_0.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-01-14 16:56:51",
+  "GPS": "37.5165093997222/126.7245446",
+  "ID CODE": "C173",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "4.30mm",
+  "exposure time": "1/120sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "64",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N971N",
+  "Software": "N971NKSU1DTJ8",
+  "File Size": "470754",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "소파",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "124/123/127",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "원거리",
+      "Drawing": "POLYGON",
+      "PolygonCount": "10",
+      "PolygonPoint": [
+        {
+          "Point1": "517,241"
+        },
+        {
+          "Point2": "668,1323"
+        },
+        {
+          "Point3": "858,1439"
+        },
+        {
+          "Point4": "1016,1439"
+        },
+        {
+          "Point5": "1426,1109"
+        },
+        {
+          "Point6": "1411,279"
+        },
+        {
+          "Point7": "1312,265"
+        },
+        {
+          "Point8": "1286,148"
+        },
+        {
+          "Point9": "1083,113"
+        },
+        {
+          "Point10": "732,142"
+        }
+      ]
+    }
+  ]
+}

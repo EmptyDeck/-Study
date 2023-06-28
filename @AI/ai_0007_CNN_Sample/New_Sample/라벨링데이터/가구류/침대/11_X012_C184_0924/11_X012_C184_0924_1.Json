@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X012_C184_0924_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-09-24 10:06:48",
+  "GPS": "37.4991365416667/126.734783202778",
+  "ID CODE": "C184",
+  "RESOLUTION": "2221*1080",
+  "focus distance": "4.30mm",
+  "exposure time": "166/10000sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "80",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N960N",
+  "Software": "",
+  "File Size": "260553",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "침대",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "132/129/127",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "원거리",
+      "Drawing": "BOX",
+      "x1": "528",
+      "y1": "0",
+      "x2": "2052",
+      "y2": "1040"
+    }
+  ]
+}

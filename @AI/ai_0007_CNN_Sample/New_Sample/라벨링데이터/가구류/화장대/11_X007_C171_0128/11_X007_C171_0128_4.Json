@@ -1,0 +1,135 @@
+{
+  "FILE NAME": "11_X007_C171_0128_4.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-01-29 15:13:52",
+  "GPS": "37.5127119/126.7250416",
+  "ID CODE": "C171",
+  "RESOLUTION": "1921*1440",
+  "focus distance": "4.30mm",
+  "exposure time": "1/60sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "100",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N960N",
+  "Software": "N960NKSU3FTK1",
+  "File Size": "423495",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "화장대",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "199/166/153",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "32",
+      "PolygonPoint": [
+        {
+          "Point1": "654,1252"
+        },
+        {
+          "Point2": "648,1281"
+        },
+        {
+          "Point3": "653,1295"
+        },
+        {
+          "Point4": "673,1297"
+        },
+        {
+          "Point5": "703,1333"
+        },
+        {
+          "Point6": "699,1359"
+        },
+        {
+          "Point7": "1211,1384"
+        },
+        {
+          "Point8": "1216,1324"
+        },
+        {
+          "Point9": "1228,1318"
+        },
+        {
+          "Point10": "1193,581"
+        },
+        {
+          "Point11": "813,590"
+        },
+        {
+          "Point12": "796,647"
+        },
+        {
+          "Point13": "757,50"
+        },
+        {
+          "Point14": "737,47"
+        },
+        {
+          "Point15": "723,59"
+        },
+        {
+          "Point16": "716,72"
+        },
+        {
+          "Point17": "676,95"
+        },
+        {
+          "Point18": "671,99"
+        },
+        {
+          "Point19": "650,110"
+        },
+        {
+          "Point20": "633,127"
+        },
+        {
+          "Point21": "615,160"
+        },
+        {
+          "Point22": "590,215"
+        },
+        {
+          "Point23": "578,253"
+        },
+        {
+          "Point24": "563,293"
+        },
+        {
+          "Point25": "552,331"
+        },
+        {
+          "Point26": "543,366"
+        },
+        {
+          "Point27": "531,413"
+        },
+        {
+          "Point28": "523,435"
+        },
+        {
+          "Point29": "520,453"
+        },
+        {
+          "Point30": "510,494"
+        },
+        {
+          "Point31": "482,575"
+        },
+        {
+          "Point32": "482,586"
+        }
+      ]
+    }
+  ]
+}

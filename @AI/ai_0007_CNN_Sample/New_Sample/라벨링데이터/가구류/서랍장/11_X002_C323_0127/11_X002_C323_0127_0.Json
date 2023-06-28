@@ -1,0 +1,57 @@
+{
+  "FILE NAME": "11_X002_C323_0127_0.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-01-27 15:14:51",
+  "GPS": "37.5961111111111/126.692777777778",
+  "ID CODE": "C323",
+  "RESOLUTION": "1921*1080",
+  "focus distance": "4.20mm",
+  "exposure time": "1/120sec",
+  "Aperture values": "1.53",
+  "Sensitivity iso": "80",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G935K",
+  "Software": "G935KKKU3ETJ1",
+  "File Size": "311844",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "서랍장",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "142/137/131",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "원거리",
+      "Drawing": "POLYGON",
+      "PolygonCount": "6",
+      "PolygonPoint": [
+        {
+          "Point1": "611,65"
+        },
+        {
+          "Point2": "546,273"
+        },
+        {
+          "Point3": "635,816"
+        },
+        {
+          "Point4": "1201,807"
+        },
+        {
+          "Point5": "1303,262"
+        },
+        {
+          "Point6": "1220,79"
+        }
+      ]
+    }
+  ]
+}

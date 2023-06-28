@@ -1,0 +1,60 @@
+{
+  "FILE NAME": "11_X092_C803_0218_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-01-13 14:44:00",
+  "GPS": "37.48298535/126.743185161111",
+  "ID CODE": "C803",
+  "RESOLUTION": "1921*1080",
+  "focus distance": "4.30mm",
+  "exposure time": "1/779sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N960N",
+  "Software": "N960NKSU3ETF4",
+  "File Size": "292189",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "장롱",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "171/151/131",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "7",
+      "PolygonPoint": [
+        {
+          "Point1": "1433,417"
+        },
+        {
+          "Point2": "1421,895"
+        },
+        {
+          "Point3": "471,956"
+        },
+        {
+          "Point4": "22,807"
+        },
+        {
+          "Point5": "179,505"
+        },
+        {
+          "Point6": "242,458"
+        },
+        {
+          "Point7": "967,0"
+        }
+      ]
+    }
+  ]
+}

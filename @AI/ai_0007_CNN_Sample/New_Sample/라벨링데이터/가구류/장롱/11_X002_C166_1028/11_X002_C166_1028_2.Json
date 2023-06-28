@@ -1,0 +1,88 @@
+{
+  "FILE NAME": "11_X002_C166_1028_2.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-10-24 15:28:42",
+  "GPS": "37.4894494997222/126.702810499722",
+  "ID CODE": "C166",
+  "RESOLUTION": "1920*1920",
+  "focus distance": "7.00mm",
+  "exposure time": "1/610sec",
+  "Aperture values": "1.69",
+  "Sensitivity iso": "20",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N986N",
+  "Software": "N986NKSU1ATJ1",
+  "File Size": "602805",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "2",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "장롱",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "161/108/73",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "11",
+      "PolygonPoint": [
+        {
+          "Point1": "903,1405"
+        },
+        {
+          "Point2": "1538,1391"
+        },
+        {
+          "Point3": "1678,508"
+        },
+        {
+          "Point4": "1576,427"
+        },
+        {
+          "Point5": "1562,384"
+        },
+        {
+          "Point6": "1178,191"
+        },
+        {
+          "Point7": "1125,197"
+        },
+        {
+          "Point8": "1121,244"
+        },
+        {
+          "Point9": "899,234"
+        },
+        {
+          "Point10": "869,547"
+        },
+        {
+          "Point11": "868,864"
+        }
+      ]
+    },
+    {
+      "CLASS": "가구류",
+      "DETAILS": "수납장",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "204/161/103",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "958",
+      "y1": "101",
+      "x2": "1285",
+      "y2": "279"
+    }
+  ]
+}

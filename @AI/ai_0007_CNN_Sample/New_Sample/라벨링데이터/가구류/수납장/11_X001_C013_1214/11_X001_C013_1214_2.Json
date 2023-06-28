@@ -1,0 +1,57 @@
+{
+  "FILE NAME": "11_X001_C013_1214_2.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-14 12:18:25",
+  "GPS": "37.5202777777778/126.703055555556",
+  "ID CODE": "C013",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "4.20mm",
+  "exposure time": "1/1708sec",
+  "Aperture values": "1.53",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G930S",
+  "Software": "G930SKSU3ETJ1",
+  "File Size": "209065",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "수납장",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "115/112/107",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "6",
+      "PolygonPoint": [
+        {
+          "Point1": "1664,120"
+        },
+        {
+          "Point2": "1561,907"
+        },
+        {
+          "Point3": "252,979"
+        },
+        {
+          "Point4": "59,181"
+        },
+        {
+          "Point5": "160,148"
+        },
+        {
+          "Point6": "1596,108"
+        }
+      ]
+    }
+  ]
+}

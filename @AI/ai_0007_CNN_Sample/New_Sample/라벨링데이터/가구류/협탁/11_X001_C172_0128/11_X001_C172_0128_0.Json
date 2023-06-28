@@ -1,0 +1,138 @@
+{
+  "FILE NAME": "11_X001_C172_0128_0.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2021-01-28 17:09:45",
+  "GPS": "37.511386/126.724476699722",
+  "ID CODE": "C172",
+  "RESOLUTION": "1921*1440",
+  "focus distance": "4.32mm",
+  "exposure time": "1/15sec",
+  "Aperture values": "1.16",
+  "Sensitivity iso": "244",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G977N",
+  "Software": "G977NKSU4DTJ8",
+  "File Size": "440484",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "협탁",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "투명",
+      "Color": "107/102/101",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "소",
+      "Direction": "윗면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "33",
+      "PolygonPoint": [
+        {
+          "Point1": "282,196"
+        },
+        {
+          "Point2": "181,879"
+        },
+        {
+          "Point3": "223,934"
+        },
+        {
+          "Point4": "297,921"
+        },
+        {
+          "Point5": "437,980"
+        },
+        {
+          "Point6": "448,1017"
+        },
+        {
+          "Point7": "482,1019"
+        },
+        {
+          "Point8": "493,962"
+        },
+        {
+          "Point9": "443,912"
+        },
+        {
+          "Point10": "642,905"
+        },
+        {
+          "Point11": "729,914"
+        },
+        {
+          "Point12": "926,897"
+        },
+        {
+          "Point13": "1174,884"
+        },
+        {
+          "Point14": "1530,851"
+        },
+        {
+          "Point15": "1473,914"
+        },
+        {
+          "Point16": "1491,964"
+        },
+        {
+          "Point17": "1535,960"
+        },
+        {
+          "Point18": "1543,916"
+        },
+        {
+          "Point19": "1604,897"
+        },
+        {
+          "Point20": "1674,888"
+        },
+        {
+          "Point21": "1703,842"
+        },
+        {
+          "Point22": "1766,842"
+        },
+        {
+          "Point23": "1814,794"
+        },
+        {
+          "Point24": "1790,718"
+        },
+        {
+          "Point25": "1751,583"
+        },
+        {
+          "Point26": "1716,439"
+        },
+        {
+          "Point27": "1668,310"
+        },
+        {
+          "Point28": "1635,166"
+        },
+        {
+          "Point29": "1594,135"
+        },
+        {
+          "Point30": "1388,148"
+        },
+        {
+          "Point31": "1006,159"
+        },
+        {
+          "Point32": "718,172"
+        },
+        {
+          "Point33": "395,179"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X001_C190_1201_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-11-27 13:40:11",
+  "GPS": "37.4915416666667/126.673425",
+  "ID CODE": "C190",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "4.25mm",
+  "exposure time": "1/313sec",
+  "Aperture values": "1.70",
+  "Sensitivity iso": "32",
+  "exposure method": "normal program",
+  "MAKE": "Apple",
+  "Camera Model Name": "iPhone 11 Pro",
+  "Software": "14.2",
+  "File Size": "403475",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "밥상",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "95/53/39",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "측면",
+      "Drawing": "BOX",
+      "x1": "478",
+      "y1": "430",
+      "x2": "1215",
+      "y2": "1129"
+    }
+  ]
+}

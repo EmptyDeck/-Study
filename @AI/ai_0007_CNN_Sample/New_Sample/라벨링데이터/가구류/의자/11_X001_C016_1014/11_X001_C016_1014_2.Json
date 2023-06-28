@@ -1,0 +1,120 @@
+{
+  "FILE NAME": "11_X001_C016_1014_2.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-10-14 15:39:51",
+  "GPS": "37.5506866194444/126.739839177778",
+  "ID CODE": "C016",
+  "RESOLUTION": "1440*1921",
+  "focus distance": "4.25mm",
+  "exposure time": "1/2028sec",
+  "Aperture values": "1.53",
+  "Sensitivity iso": "160",
+  "exposure method": "normal program",
+  "MAKE": "",
+  "Camera Model Name": "",
+  "Software": "",
+  "File Size": "285949",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "의자",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "134/147/154",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "소",
+      "Direction": "측면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "27",
+      "PolygonPoint": [
+        {
+          "Point1": "233,394"
+        },
+        {
+          "Point2": "303,382"
+        },
+        {
+          "Point3": "319,406"
+        },
+        {
+          "Point4": "335,377"
+        },
+        {
+          "Point5": "498,335"
+        },
+        {
+          "Point6": "731,364"
+        },
+        {
+          "Point7": "728,356"
+        },
+        {
+          "Point8": "809,364"
+        },
+        {
+          "Point9": "809,859"
+        },
+        {
+          "Point10": "844,878"
+        },
+        {
+          "Point11": "1139,1142"
+        },
+        {
+          "Point12": "1137,1224"
+        },
+        {
+          "Point13": "1029,1290"
+        },
+        {
+          "Point14": "1016,1587"
+        },
+        {
+          "Point15": "984,1611"
+        },
+        {
+          "Point16": "913,1540"
+        },
+        {
+          "Point17": "913,1495"
+        },
+        {
+          "Point18": "599,1635"
+        },
+        {
+          "Point19": "622,1767"
+        },
+        {
+          "Point20": "572,1793"
+        },
+        {
+          "Point21": "527,1706"
+        },
+        {
+          "Point22": "520,1611"
+        },
+        {
+          "Point23": "406,1364"
+        },
+        {
+          "Point24": "385,1385"
+        },
+        {
+          "Point25": "345,1305"
+        },
+        {
+          "Point26": "338,1036"
+        },
+        {
+          "Point27": "318,947"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "FILE NAME": "11_X001_C208_1217_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-17 15:11:12",
+  "GPS": "37.529225/126.719261111111",
+  "ID CODE": "C208",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "4.30mm",
+  "exposure time": "1/433sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G960N",
+  "Software": "G960NKSU3FTJ2",
+  "File Size": "319739",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "수납장",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "172/148/120",
+      "Shape": "직육면체",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "정면",
+      "Drawing": "POLYGON",
+      "PolygonCount": "6",
+      "PolygonPoint": [
+        {
+          "Point1": "1136,357"
+        },
+        {
+          "Point2": "1079,687"
+        },
+        {
+          "Point3": "391,735"
+        },
+        {
+          "Point4": "326,382"
+        },
+        {
+          "Point5": "357,250"
+        },
+        {
+          "Point6": "1067,241"
+        }
+      ]
+    }
+  ]
+}

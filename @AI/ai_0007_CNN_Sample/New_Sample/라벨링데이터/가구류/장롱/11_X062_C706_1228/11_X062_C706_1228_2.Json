@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "11_X062_C706_1228_2.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-11-06 10:13:10",
+  "GPS": "37.5080555555556/126.726666666667",
+  "ID CODE": "C706",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "3.60mm",
+  "exposure time": "1/40sec",
+  "Aperture values": "1.85",
+  "Sensitivity iso": "64",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-J600L",
+  "Software": "J600LKLS5CTI1",
+  "File Size": "154153",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "가구류",
+      "DETAILS": "장롱",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "164/141/120",
+      "Shape": "다면체",
+      "Texture": "딱딱함",
+      "Object Size": "대",
+      "Direction": "정면",
+      "Drawing": "BOX",
+      "x1": "820",
+      "y1": "32",
+      "x2": "1522",
+      "y2": "1365"
+    }
+  ]
+}
