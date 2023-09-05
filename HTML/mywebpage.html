@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="./goodstyle.css">
+
+    <style>
+        body {
+          background-image: url(/Users/cia/Documents/CODE/HTML/backpattern.jpeg);
+        }
+    </style>
+
+</head>
+<body>
+
+
+
+
+
+    <center>
+        <h1 style="font-family: Copperplate;">Pivonachi</h1>
+
+        <img src="/Users/cia/Documents/CODE/HTML/피보나치.png" width="30%" height="20%" alt="">
+    </center>
+
+    <p>
+        <center>
+        <h4>
+            <div id="explain-box" style="font-family:나눔명조;">레오나르도 피보나치 또는 레오나르도피사노 는 이탈리아의 수학자로 피보나치 수에 대한 연구로 유명하다.<br> 또한 유럽에 아라비아 수 체계를 소개하기도 했다. <br>피보나치 수열 다항방정식. <br> <img src="/Users/cia/Documents/CODE/HTML/images/pivo.jpeg" alt="" width="90%" height=""></div>
+            
+        </h4>
+        </center>
+    </p>
+
+
+
+
+
+
+
+
+<center>
+    <div id="white-box">
+    
+    
+    <h1>피보나치 수열 체험하기</h1>
+
+    숫자를 입력해주세요
+    <br>
+
+    출력할 피보나치 수열 갯수: <input type="text" id="myText" value="" style="height: 10%; width:20%">
+    <br>
+    <div>
+        <p id = "pid">
+            
+            
+        </p>
+
+
+    </div>
+    
+아래의 버튼을 누르면 피보나치 수열을 출력합니다
+<br>
+
+
+<input type="image" src="/Users/cia/Documents/CODE/HTML/images/buttons_PNG46.png" style="width : 30%"onclick="myFunction()"></input>
+
+    <script>
+    function myFunction() {
+    var times =document.getElementById("myText").value;
+
+
+    if (times == 1){
+        document.getElementById("pid").innerHTML = '1'
+    }
+    else if (times == 2){
+        document.getElementById("pid").innerHTML = '1, 1'
+    }
+    else{
+    
+        let total = '1, ' + '1, ' +'2, ';
+
+        num1 = 1
+        num2 = 1
+        ram = 0
+
+    for(let i = 0 ; i < times-3 ; i ++){
+        ram = num1 + num2;
+        num1 = num2;
+        num2 = ram;
+        let nums = num1 + num2
+
+
+        if (i == times - 4){
+            total = total + nums.toString();
+        }
+        else{
+        total = total + nums.toString() + ', ' ;
+        }
+        
+        setTimeout(function(){document.getElementById("pid").innerHTML =(total);
+        },500);
+
+
+        
+    }
+    document.getElementById("pid").innerHTML = "로딩중...";
+
+    }
+    }
+
+
+    </script>
+
+</div>
+</center>
+<br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+</body>
+</html>

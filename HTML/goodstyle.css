@@ -1,0 +1,23 @@
+.bigblue{
+  color: blue;
+  font-size: larger;
+}
+
+#explain-box{
+  line-height: 100px;
+  text-align: center;
+  background-color: rgba(150, 245, 248, 0.676);
+  border: 2px solid rgba(19, 18, 18, 0.282);
+  width: 80%; height: 40%;
+  color: rgba(0, 0, 0, 0.706);
+  font-size: 0.6cm;
+}
+#white-box{
+  line-height: 100px;
+  text-align: center;
+  background-color: rgba(244, 246, 246, 0.741);
+  border: 2px solid rgba(19, 18, 18, 0.408);
+  width: 80%; height: 40%;
+  color: rgba(0, 0, 0, 0.706);
+  font-size: 0.6cm;
+}
